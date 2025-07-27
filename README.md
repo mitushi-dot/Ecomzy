@@ -16,3 +16,4 @@ Scalable Architecture: Built with extensibility in mind to accommodate a growing
 
 Retailer Enablement: Provides a streamlined digital channel for retailers to effectively showcase and sell their products to a broad customer base.
 
+<img width="1440" height="900" alt="Screenshot 2025-07-28 at 1 42 50 AM" src="https://github.com/user-attachments/assets/58679129-e834-4900-989b-40a0dfd5328d" />
