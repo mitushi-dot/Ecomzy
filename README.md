@@ -12,9 +12,10 @@ Shopping Cart Functionality: Core e-commerce features like "Add to Cart" ensure 
 
 Clean User Interface (UI): A minimalist and modern design prioritizes user experience, making navigation and product discovery straightforward.
 
-Scalable A<img width="1440" height="900" alt="Screenshot 2025-07-28 at 1 46 16 AM" src="https://github.com/user-attachments/assets/2a50d0c9-88f7-4309-af80-7674255c9c47" />
-rchitecture: Built with extensibility in mind to accommodate a growing number of products, categories, and users.
+Scalable Architecture: Built with extensibility in mind to accommodate a growing number of products, categories, and users.
 
 Retailer Enablement: Provides a streamlined digital channel for retailers to effectively showcase and sell their products to a broad customer base.
+<img width="1440" height="900" alt="Screenshot 2025-07-28 at 1 46 16 AM" src="https://github.com/user-attachments/assets/cde776ae-2eb8-4854-8838-a3d4c3cb7412" />
 
 <img width="1440" height="900" alt="Screenshot 2025-07-28 at 1 42 50 AM" src="https://github.com/user-attachments/assets/58679129-e834-4900-989b-40a0dfd5328d" />
+
